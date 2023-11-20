@@ -1,0 +1,14 @@
+{
+  "name": "algorithm-ds-playground",
+  "version": "1.0.0",
+  "description": "algorithm and data structure playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raynaldo Sutisna",
+  "license": "ISC",
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^5.3.0"
+  }
+}
