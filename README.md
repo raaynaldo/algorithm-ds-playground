@@ -1,7 +1,7 @@
 # Algorithm and Data Structure Playground
 
 ## Getting Start
-Install all Pckages
+Install all Packages
 ```
 npm install
 ```
